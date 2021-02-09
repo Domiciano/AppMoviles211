@@ -5,7 +5,7 @@
 <p>Bienvenido al curso de Aplicaciones Móviles</p>
 
 <p>Grupos<p>
-<a href="ttps://docs.google.com/spreadsheets/d/11v9NJcYs5GBdcGn9Eux0YJq-jpWlB2iW-ZHXZW0C_3Q/edit?usp=sharing">Grupos martes</a>
+<p><a href="ttps://docs.google.com/spreadsheets/d/11v9NJcYs5GBdcGn9Eux0YJq-jpWlB2iW-ZHXZW0C_3Q/edit?usp=sharing">Grupos martes</a></p>
 
 <p><a href="https://docs.google.com/presentation/d/18JquSMG70VpxgpmcuJmCwRFAti4kP9hW4t0cPVqcTAU/edit?usp=sharing">Integrantes del martes</a></p>
 
