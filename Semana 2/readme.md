@@ -1,4 +1,4 @@
-### Ejercicio UI
+# Ejercicio UI
 
 <p>Se está creando una aplicación para el usuario final por parte de la empresa Cisco. El mockup de la aplicación es la siguiente<p>
 
