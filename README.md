@@ -5,13 +5,13 @@
 <p>Bienvenido al curso de Aplicaciones Móviles</p>
 
 
-<p>Integrantes</p>
+<p><b>Integrantes</b></p>
 <p><a href="https://docs.google.com/presentation/d/18JquSMG70VpxgpmcuJmCwRFAti4kP9hW4t0cPVqcTAU/edit?usp=sharing">Integrantes del martes</a></p>
 
 <p><a href="https://docs.google.com/presentation/d/1RaZeZRx5zBnwz71_tEMn4e2hXXS_y02Rv0pIq-yVkRg/edit?usp=sharing">Integrantes del jueves</a></p>
 
 
-<p>Grupos<p>
+<p><b>Grupos</b><p>
 <p><a href="ttps://docs.google.com/spreadsheets/d/11v9NJcYs5GBdcGn9Eux0YJq-jpWlB2iW-ZHXZW0C_3Q/edit?usp=sharing">Grupos del martes</a></p>
 
 
