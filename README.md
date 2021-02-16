@@ -13,6 +13,7 @@
 
 <p><b>Grupos</b><p>
 <p><a href="https://docs.google.com/spreadsheets/d/11v9NJcYs5GBdcGn9Eux0YJq-jpWlB2iW-ZHXZW0C_3Q/edit?usp=sharing">Grupos del martes</a></p>
+<p><a href="https://docs.google.com/spreadsheets/d/1-tzb9PnWCu8uDyimxIRWJGJnseYB_BlNtub6ZTaIS8U/edit?usp=sharing">Grupos del jueves</a></p>
 
 
 <b>Contenido del curso</b><br>
