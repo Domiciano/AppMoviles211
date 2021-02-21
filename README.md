@@ -23,5 +23,12 @@
 
 <b>Códigos</b><br>
 <p><a href="https://github.com/domic0620/AMS1">Semana 1</a></p>
+<p>Link para la clonación</p>
 <code>https://github.com/domic0620/AMS1</code>
 <p></p>
+
+<p><a href="https://github.com/domic0620/AMS2">Semana 2</a></p>
+<p>Link para la clonación</p>
+<code>https://github.com/domic0620/AMS2</code>
+<p></p>
+
