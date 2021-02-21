@@ -23,7 +23,5 @@
 
 <b>Códigos</b><br>
 <p><a href="https://github.com/domic0620/AMS1">Semana 1</a></p>
-```
-https://github.com/domic0620/AMS1
-```
+<code>https://github.com/domic0620/AMS1</code>
 <p></p>
