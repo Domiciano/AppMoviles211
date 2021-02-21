@@ -21,3 +21,9 @@
 <a href="https://miro.com/app/board/o9J_lWBQDH0=/" target="_blank"><img src="https://appmirror.net/wp-content/uploads/2020/12/miro-icon-1200x1200.png" width="200"></a>
 <br>
 
+<b>Códigos</b><br>
+<p><a href="https://github.com/domic0620/AMS1">Semana 1</a></p>
+```
+https://github.com/domic0620/AMS1
+```
+<p></p>
