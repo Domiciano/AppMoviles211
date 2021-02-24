@@ -21,3 +21,18 @@
 <a href="https://miro.com/app/board/o9J_lWBQDH0=/" target="_blank"><img src="https://appmirror.net/wp-content/uploads/2020/12/miro-icon-1200x1200.png" width="200"></a>
 <br>
 
+<b>Códigos</b><br>
+<p><a href="https://github.com/domic0620/AMS1">Semana 1</a></p>
+<p>Link para la clonación</p>
+<code>https://github.com/domic0620/AMS1</code>
+<p></p>
+
+<p><a href="https://github.com/domic0620/AMS2">Semana 2</a></p>
+<p>Link para la clonación</p>
+<code>https://github.com/domic0620/AMS2</code>
+<p></p>
+
+<p><a href="https://github.com/domic0620/AMS3">Semana 3</a></p>
+<p>Link para la clonación</p>
+<code>https://github.com/domic0620/AMS3</code>
+<p></p>
