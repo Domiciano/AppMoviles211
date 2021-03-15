@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">PNV</string>
+
+    <!-- Registro. -->
+    <string name="mensaje_bienvenida">Bienvenido(a) al Plan de Vacunación Nacional contra el COVID-19.</string>
+    <string name="txt_bienvenida">Has sido notificado(a) por tu IPS para iniciar tu proceso de vacunación contra el COVID-19.
+        Por favor completa la siguiente información para realizar el registro correspondiente. </string>
+    <string name="info_personal">Información personal</string>
+    <string name="nombre">Nombre completo</string>
+    <string name="fecha_nacimiento">Fecha de nacimiento</string>
+    <string name="cedula">Cédula de ciudadanía</string>
+    <string name="departamento">Departamento de residencia</string>
+    <string name="ciudad">Ciudad de residencia</string>
+    <string name="direccion">Dirección de residencia</string>
+    <string name="telefono">Teléfono de contacto</string>
+    <string name="correo">Correo electrónico</string>
+    <string name="info_clinica">Información clínica</string>
+    <string name="eps">Selecciona tu EPS</string>
+    <string name="ips">Selecciona tu IPS</string>
+    <string name="pregunta_covid_1">¿Ya fuiste contagiado con COVID-19?</string>
+    <string name="pregunta_covid_2">¿Presentas síntomas COVID-19?</string>
+    <string name="pregunta_covid_3">¿Cuentas con algunas enfermedad base?</string>
+    <string name="txt_enfermedades">Si tu respuesta anterior fue afirmativa, por favor indica a continuación
+        tu o tus enfermedades base, separadas por comas.</string>
+    <string name="enfermedades">(p. ej., hipertensión, diabetes)</string>
+    <string name="txt_tratamientos_datos">Certifico que la información ingresada en este formulario es veraz,
+        y autorizo al Ministerio de Salud para que lleve a cabo su respectiva
+        comprobación.</string>
+    <string name="finalizar_registro">Finalizar registro</string>
+
+</resources>

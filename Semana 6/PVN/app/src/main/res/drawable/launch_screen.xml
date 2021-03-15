@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:drawable="@drawable/bg_launch_screen"
+        tools:ignore="ResourceCycle" />
+
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/logo_pnv" />
+    </item>
+
+</layer-list>

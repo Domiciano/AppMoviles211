@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_enfermedades">
+        <item>¿Cuentas con alguna enfermedad de base?</item>
+        <item>Sí</item>
+        <item>No</item>
+    </string-array>
+</resources>
