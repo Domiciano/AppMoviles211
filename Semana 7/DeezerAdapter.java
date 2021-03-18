@@ -21,6 +21,7 @@ public class DeezerAdapter extends RecyclerView.Adapter<DeezerItemRowView> {
     @Override
     public DeezerItemRowView onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
         LayoutInflater inflater = LayoutInflater.from(parent.getContext());
+        View root = inflater.inflate(R.layout.row, parent, false);
         return null;
     }
 
