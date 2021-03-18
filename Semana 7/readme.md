@@ -1,4 +1,4 @@
-´´´
+```
 byte[] buffer = new byte[1024];
 int bytesLeidos;
 while ((bytesLeidos = is.read(buffer)) != -1) {
@@ -7,4 +7,4 @@ while ((bytesLeidos = is.read(buffer)) != -1) {
 is.close();
 baos.close();
 String recibido = new String(baos.toByteArray());
-´´´
+```
